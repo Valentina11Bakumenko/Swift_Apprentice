@@ -80,19 +80,3 @@ let c: Double = -4
 
 let root1: Double = (-b + sqrt(b * b - 4 * a * c)) / (2 * a)
 let root2: Double = (-b - sqrt(b * b - 4 * a * c)) / (2 * a)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
